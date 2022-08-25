@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.practica{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 100px;
+}
+
+.titulo{
+    padding: 10px 30px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
+
+.parrafo{
+    padding: 10px 30px;
+    background-color: #E59606;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
